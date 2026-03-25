@@ -6,7 +6,7 @@ A Python tool for calculating and analyzing stress-strain behavior from material
 - Calculates stress and strain values
 - Uses sample material test data
 - Organized function-based structure
-- Separate data viewer script
+- Separate material data viewer
 - Clear printed output
 
 ## Technologies Used
